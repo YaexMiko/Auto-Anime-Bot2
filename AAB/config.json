@@ -5,9 +5,9 @@
     "database_url" : "mongodb+srv://Premium:aloksingh@cluster0.4ykpo.mongodb.net/?retryWrites=true&w=majority",
     "main_channel" : "-1002329482262",
     "thumbnail_url" : "https://te.legra.ph/file/621c8d40f9788a1db7753.jpg",
-    "files_channel" : -1002482492010,
-    "production_chat" : -1002266633867,
-    "api_id" : 27692015,
+    "files_channel" : "-1002482492010",
+    "production_chat" : "-1002266633867",
+    "api_id" : "27692015",
     "api_hash" : "25278a8394b5914ee1b8d6a6c79d572d",
     "main_bot" : "7716433955:AAFyRm41MWU-K0MslxcRWvE5tOYFMCS3pO8",
     "client_bot" : "Client Bot for upload"
